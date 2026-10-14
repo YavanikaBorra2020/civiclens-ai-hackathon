@@ -1,0 +1,6 @@
+{
+  "name": "CivicLens AI — Smart City Complaint Assistant",
+  "description": "Smart city complaint assistant with automated AI priority assessment, duplicate detection radar, and departmental routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
